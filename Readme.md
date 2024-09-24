@@ -85,7 +85,7 @@ Learnify is licensed under the MIT License. See [LICENSE](LICENSE) for more deta
 For more information or support, contact the Learnify team at:
 
 - Email: support@learnify.com
-- Website: [www.learnify.com](https://www.learnify.com)
+- Website: [www.learnify.com](https://www.####.com)
 
 ---
 
